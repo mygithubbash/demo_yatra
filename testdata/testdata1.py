@@ -7,6 +7,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import ddt
+
+# v2
 from pages.yatra_first_page import FirstPage
 from selenium.webdriver.common.keys import Keys
 from utilities.utils import utils
